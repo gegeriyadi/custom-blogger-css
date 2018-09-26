@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5197d664-3583-4298-8dd2-ffb36de6e73b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1318315239">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="xml" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="XML" value="77" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="n#b:section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#183316#183320#0" expanded="true" />
+                <element signature="e#183324#183328#0" expanded="true" />
+                <element signature="e#183328#183332#0" expanded="true" />
+                <element signature="e#183336#183340#0" expanded="true" />
+                <element signature="n#b:if#1;n#b:loop#0;n#div#0;n#b:if#0;n#b:includable#0;n#b:widget#0;n#b:section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#183545#183549#0" expanded="true" />
+                <element signature="e#183559#183565#0" expanded="true" />
+                <element signature="e#183575#183581#0" expanded="true" />
+                <element signature="e#183581#183585#0" expanded="true" />
+                <element signature="e#184059#184063#0" expanded="true" />
+                <element signature="e#184073#184079#0" expanded="true" />
+                <element signature="e#184089#184095#0" expanded="true" />
+                <element signature="e#184095#184099#0" expanded="true" />
+                <element signature="e#185184#185188#0" expanded="true" />
+                <element signature="e#185192#185196#0" expanded="true" />
+                <element signature="e#185196#185200#0" expanded="true" />
+                <element signature="e#185204#185208#0" expanded="true" />
+                <element signature="e#190962#190967#0" expanded="true" />
+                <element signature="e#190995#191000#0" expanded="true" />
+                <element signature="e#206760#206765#0" expanded="true" />
+                <element signature="e#210190#210195#0" expanded="true" />
+                <element signature="e#210717#210722#0" expanded="true" />
+                <element signature="e#239159#239164#0" expanded="true" />
+                <element signature="e#239192#239197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="8979" />
+              <folding>
+                <element signature="e#80309#80509#2" expanded="true" />
+                <element signature="e#80743#80892#2" expanded="true" />
+                <element signature="e#81465#81611#2" expanded="true" />
+                <element signature="e#81985#82151#1" expanded="true" />
+                <element signature="e#96335#96578#2" expanded="true" />
+                <element signature="e#97614#97863#2" expanded="true" />
+                <element signature="e#131149#131339#2" expanded="true" />
+                <element signature="e#131396#131586#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>post-title</find>
+      <find>comments</find>
+      <find>a name='comment</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/custom1.xml" />
+        <option value="$PROJECT_DIR$/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blogger-theme" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogger-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5197d664-3583-4298-8dd2-ffb36de6e73b" name="Default Changelist" comment="" />
+      <created>1537948291285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537948291285</updated>
+      <workItem from="1537948292718" duration="2246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/custom1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#b:section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#183316#183320#0" expanded="true" />
+            <element signature="e#183324#183328#0" expanded="true" />
+            <element signature="e#183328#183332#0" expanded="true" />
+            <element signature="e#183336#183340#0" expanded="true" />
+            <element signature="n#b:if#1;n#b:loop#0;n#div#0;n#b:if#0;n#b:includable#0;n#b:widget#0;n#b:section#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#183545#183549#0" expanded="true" />
+            <element signature="e#183559#183565#0" expanded="true" />
+            <element signature="e#183575#183581#0" expanded="true" />
+            <element signature="e#183581#183585#0" expanded="true" />
+            <element signature="e#184059#184063#0" expanded="true" />
+            <element signature="e#184073#184079#0" expanded="true" />
+            <element signature="e#184089#184095#0" expanded="true" />
+            <element signature="e#184095#184099#0" expanded="true" />
+            <element signature="e#185184#185188#0" expanded="true" />
+            <element signature="e#185192#185196#0" expanded="true" />
+            <element signature="e#185196#185200#0" expanded="true" />
+            <element signature="e#185204#185208#0" expanded="true" />
+            <element signature="e#190962#190967#0" expanded="true" />
+            <element signature="e#190995#191000#0" expanded="true" />
+            <element signature="e#206760#206765#0" expanded="true" />
+            <element signature="e#210190#210195#0" expanded="true" />
+            <element signature="e#210717#210722#0" expanded="true" />
+            <element signature="e#239159#239164#0" expanded="true" />
+            <element signature="e#239192#239197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8979" />
+          <folding>
+            <element signature="e#80309#80509#2" expanded="true" />
+            <element signature="e#80743#80892#2" expanded="true" />
+            <element signature="e#81465#81611#2" expanded="true" />
+            <element signature="e#81985#82151#1" expanded="true" />
+            <element signature="e#96335#96578#2" expanded="true" />
+            <element signature="e#97614#97863#2" expanded="true" />
+            <element signature="e#131149#131339#2" expanded="true" />
+            <element signature="e#131396#131586#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
